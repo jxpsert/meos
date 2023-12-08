@@ -1,0 +1,82 @@
+:root
+{
+    --meosblue-dark: #113e6c;
+    --meosblue: #0174e2;
+
+    --white: #ffffff;
+    --black: #000000;
+    --blue: #008cff;
+    --red: #fa4d4d;
+    --orange: #ff9a00;
+    --green: #50f450;
+}
+
+.bg-meosblue-dark
+{
+    background-color: var(--meosblue-dark);
+}
+
+.bg-meosblue
+{
+    background-color: var(--meosblue);
+}
+
+.bg-white
+{
+    background-color: var(--white);
+}
+
+.bg-black
+{
+    background-color: var(--black);
+}
+
+.bg-blue
+{
+    background-color: var(--blue);
+}
+
+.bg-red
+{
+    background-color: var(--red);
+}
+
+.bg-orange
+{
+    background-color: var(--orange);
+}
+
+.bg-green
+{
+    background-color: var(--green);
+}
+
+.text-white
+{
+    color: var(--white);
+}
+
+.text-black
+{
+    color: var(--black);
+}
+
+.text-blue
+{
+    color: var(--blue);
+}
+
+.text-red
+{
+    color: var(--red);
+}
+
+.text-orange
+{
+    color: var(--orange);
+}
+
+.text-green
+{
+    color: var(--green);
+}

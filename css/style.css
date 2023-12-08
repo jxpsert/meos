@@ -1,0 +1,37 @@
+html
+{
+    overflow-x: hidden;
+}
+
+.meosheader
+{
+    color: white;
+    background-color: black;
+    padding: 0.25em;
+}
+
+.largebtn
+{
+    aspect-ratio: 1/1;
+    background-color: var(--meos-blue-dark);
+}
+
+.largeicon
+{
+    font-size: 5.5em;
+}
+
+.text-centre
+{
+    text-align: center;
+}
+
+.buttonlefticon
+{
+    font-size: 2em;
+}
+
+.hover-opacity-quarter:hover
+{
+    opacity: 0.75;
+}
